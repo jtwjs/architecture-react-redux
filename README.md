@@ -1,1 +1,1 @@
-learning react architecture & react-redux architecture
+learning react architecture & redux architecture
